@@ -65,12 +65,16 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
-.header {
-	color: grey;
+.container {
+	width: 875px;
+	margin: 0 auto;
+}
+/* header */
+
+.header nav {
 	display: inline-block;
-	margin: 15px;
+	width: 690px;
+	vertical-align: top;
+	margin-top:35px;
 }
 
-.box1 {
-	display:inline-block;
-}
